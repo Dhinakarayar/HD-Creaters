@@ -1,0 +1,29 @@
+
+    body{
+        background-image: url('./redbrave.jpg');
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+        background-repeat:no-repeat;
+        justify-content: center;
+        text-align: center;
+    }
+body{
+    background-image: url(../image/image1.jpg);
+    border-image-width: 10px;
+}
+
+h1{
+    color: brown;
+    align-items: center;
+    text-align: center;
+}
+
+input{
+    width: 10%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid white;
+    border-radius: 4px;
+    margin: 0.5rem 0;
+    }
